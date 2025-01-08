@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "3c4ef728d8a40335",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6f76527d493d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530056c7416051eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assessment_Methodologies/Information_Gathering/sdfsa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sdfsa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284fba0a057b6419",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4e5002d175843c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f002292128e4067d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2198e2312fa1bd4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c63ddfad39bda87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62fd66b546c513b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad44e6e8c07bf94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294bd09611b25183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assessment_Methodologies/Information_Gathering/sdfsa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sdfsa"
+            }
+          },
+          {
+            "id": "bc0fc8d290ae8a18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assessment_Methodologies/Information_Gathering/sdfsa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sdfsa"
+            }
+          },
+          {
+            "id": "7b11d2e6bab52b68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0a8f53c0efc3a73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assessment_Methodologies/Information_Gathering/sdfsa.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sdfsa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "530056c7416051eb",
+  "lastOpenFiles": [
+    "Assessment_Methodologies/Information_Gathering/sdfsa.md",
+    "Untitled.md"
+  ]
+}
