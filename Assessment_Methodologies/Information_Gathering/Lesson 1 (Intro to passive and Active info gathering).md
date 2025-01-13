@@ -3,6 +3,7 @@
 ---
 ---
 
+
 ## What is Information Gathering?
 
 The first step of pen-testing is to gather information about the target. The more information we will gather at the this stage, the more successful we will be at pen-testing our target.

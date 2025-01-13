@@ -2,6 +2,8 @@
 
 ---
 ---
+
+
 In order to find the IP address of a a website, we can use the ```host``` command in Kali.
 
 ===If we see a website that has two IP addresses linked to it, we know that we are dealing with some type of proxy===.
@@ -27,7 +29,7 @@ The purpose of it is to help search engines understand a website's structure, in
 
 ---
 
-Another useful tool we can use to inspect the entire source code of a website page is HTTrack which is a tool we can install on our Kali machines by: ```sudo apt-get install webhttrack -y```
+Another useful tool we can use to inspect the entire source code of a website page is ==HTTrack== which is a tool we can install on our Kali machines by: ```sudo apt-get install webhttrack -y```
 
 ---
 ## Whois Enumeration
