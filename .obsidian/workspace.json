@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Footprinting & Scanning/Lesson 1 (Networking Primer).md",
+                "file": "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 (Networking Primer)"
+              "title": "Lesson 2 (Host Discovery)"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "62fd66b546c513b3",
@@ -177,14 +176,15 @@
   },
   "active": "7813ae7a701054c3",
   "lastOpenFiles": [
-    "Assessment_Methodologies/Footprinting & Scanning/INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf",
-    "Pasted image 20250112220430.png",
-    "Pasted image 20250112220031.png",
-    "Assessment_Methodologies/Information_Gathering/Information Gathering CTF 1.md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 1 (Networking Primer).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 2 (Passive info gathering).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 1 (Intro to passive and Active info gathering).md",
+    "Assessment_Methodologies/Information_Gathering/Information Gathering CTF 1.md",
+    "Pasted image 20250112220031.png",
+    "Assessment_Methodologies/Footprinting & Scanning/INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf",
+    "Pasted image 20250112220430.png",
     "Assessment_Methodologies/Information_Gathering/Lesson 3 (Active Information Gathering).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 1 (Networking Primer).md",
     "Assessment_Methodologies/Footprinting & Scanning",
     "Assessment_Methodologies/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "Assessment_Methodologies/INE-Assessment-Methodologies-Information-Gathering-Course-Files/Footprinting & Scanning",

@@ -13,6 +13,7 @@ Every packet that network protocols use to communicate with each other has a Hea
 
 
 
+---
 
 ## Network Layer
 
@@ -59,4 +60,47 @@ The IP protocol defines many different fields in the packet header. These fields
 - Protocol: 8-bit value that indicates the data payload type the the packet is carrying.
 
 
+---
 
+## Transport Layer - Part 1
+
+
+**The Transport Layer is the forth layer in the OSI model. 
+
+This layer ensures reliable, end-to-end communication, handling tasks such as error detection, flow control, and segmentation of data into smaller units.
+
+
+#### TCP 3-Way Handshake
+
+SYN (Synchronize): The process begins with the client sending a TCP segment with the SYN flag set. This initial message indicate the client's intention to establish a connection and includes an initial sequence number (ISN), which is a random chosen value.
+
+SYN-ACK (Synchronize-Acknowledge) : Upon receiving the SYN segment, the server responds with  a TCP segment that has both the SYN and ACK flags set. The ACK number is set to one more than the initial sequence number received in the client's SYN segment. The server also generates its own initial sequence number.
+
+Finally, the client acknowledges the server's response by sending a TCP segment with the ACK flag set. The acknowledgment number is set to one more than the server's initial sequence number.  
+
+#### TCP Control Flags
+
+TCP uses a set of control flags to manage various aspects of the communication process. 
+
+These flags are included in the TCP header and control different features during the establishment , maintenance, and termination of a TCP connection.
+
+For establishing a connection:
+- SYN(Set): initiates a connection request
+- ACK(Clear): No acknowledgment yet
+- FIN(Clear): No termination request
+
+Establishing a connection (Response):
+- SYN(Set): Acknowledge a connection request.
+- ACK(Set): Acknowledge the received data.
+- FIN(Clear): No termination request.
+
+Terminating a connection:
+
+- SYN(Clear): No connection request.
+- ACK(Set): Acknowledge the received data.
+- FIN(Set): Initiates connection termination.
+
+
+---
+
+## Transport Layer - Part 2
