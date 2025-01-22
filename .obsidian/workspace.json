@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Enumeration/Lesson 1 (Nmap Scripting Engine (NSE)).md",
+                "file": "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 (Nmap Scripting Engine (NSE))"
+              "title": "Lab (Assessment Methodologies_Enumeration CTF 1)"
             }
           }
         ]
@@ -176,19 +176,21 @@
   },
   "active": "7813ae7a701054c3",
   "lastOpenFiles": [
+    "Assessment_Methodologies/Enumeration/Lesson 2 (Service Enumeration).md",
+    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
+    "Assessment_Methodologies/Enumeration/Lesson 1 (Nmap Scripting Engine (NSE)).md",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
     "Assessment_Methodologies/Enumeration/__MACOSX/INE-Assessment-Methodologies-Enumeration-Course-File",
     "Assessment_Methodologies/Enumeration/__MACOSX",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.zip",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 4 (Evasion, Scan Performance & Output).md",
-    "Assessment_Methodologies/Enumeration/Lesson 1 (Nmap Scripting Engine (NSE)).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 2 (Passive info gathering).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 1 (Intro to passive and Active info gathering).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 3 (Active Information Gathering).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
     "Assessment_Methodologies/Footprinting & Scanning/INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
     "Pasted image 20250114172439.png",
@@ -202,7 +204,6 @@
     "Assessment_Methodologies/INE-Assessment-Methodologies-Information-Gathering-Course-Files/Footprinting & Scanning",
     "2025-01-08.md",
     "Untitled.canvas",
-    "Assessment_Methodologies/__MACOSX/INE-Assessment-Methodologies-Information-Gathering-Course-Files",
     "Untitled.md"
   ]
 }
