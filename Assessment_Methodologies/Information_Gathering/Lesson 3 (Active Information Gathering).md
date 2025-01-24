@@ -97,6 +97,6 @@ Another tool we can use is ==netdiscover.==
 | -sC     | Default nmap script scan                                                                                                    |
 | -A      | Aggressive scan  (combines the operating system, service system and the default script scan)                                |
 | -T0,-T5 | Timing template, the higher the number, the faster the scan is. However, the slower the scan is the more silent the scan is |
-| -oN,-oX | Output results in normal format, xml format                                                                                 |                                                                                                                       |
+| -oN,-oX | Output results in normal format, xml format                                                                                 |
 
 

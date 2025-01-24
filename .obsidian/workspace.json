@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
+                "file": "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 (Vulnerability Assessment)"
+              "title": "Lab (Vulnerability Assessment CTF 1)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "62fd66b546c513b3",
@@ -175,27 +175,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7813ae7a701054c3",
+  "active": "2198e2312fa1bd4d",
   "lastOpenFiles": [
-    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
+    "Assessment_Methodologies/Vulnerability Assessment/Lesson 2 (Vulnerability Analysis).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 4 (Evasion, Scan Performance & Output).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
+    "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
+    "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
+    "Assessment_Methodologies/Vulnerability Assessment/Lesson 3 (Vulnerability Scanning).md",
+    "Assessment_Methodologies/Information_Gathering/Lesson 3 (Active Information Gathering).md",
+    "Assessment_Methodologies/Information_Gathering/Lesson 2 (Passive info gathering).md",
+    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
     "Assessment_Methodologies/Vulnerability Assessment",
     "Assessment_Methodologies/Enumeration/Lesson 2 (Service Enumeration).md",
     "Assessment_Methodologies/Enumeration/Lesson 1 (Nmap Scripting Engine (NSE)).md",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
     "Assessment_Methodologies/Enumeration/__MACOSX/INE-Assessment-Methodologies-Enumeration-Course-File",
     "Assessment_Methodologies/Enumeration/__MACOSX",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.zip",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 4 (Evasion, Scan Performance & Output).md",
-    "Assessment_Methodologies/Information_Gathering/Lesson 2 (Passive info gathering).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 1 (Intro to passive and Active info gathering).md",
-    "Assessment_Methodologies/Information_Gathering/Lesson 3 (Active Information Gathering).md",
     "Assessment_Methodologies/Footprinting & Scanning/INE-Assessment-Methodologies-Footprinting-and-Scanning-Course-File.pdf",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
     "Pasted image 20250114172439.png",
     "Pasted image 20250114171558.png",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 1 (Networking Primer).md",
