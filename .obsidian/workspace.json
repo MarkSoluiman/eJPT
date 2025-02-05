@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
+                "file": "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab (Vulnerability Assessment CTF 1)"
+              "title": "Lesson 3 (From Auditing to Penetration Testing)"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "62fd66b546c513b3",
@@ -152,8 +153,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -175,15 +176,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2198e2312fa1bd4d",
+  "active": "7813ae7a701054c3",
   "lastOpenFiles": [
+    "Assessment_Methodologies/Auditing Fundamentals/Lesson 2 (Governance, Risk & Compliance).md",
+    "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
+    "Assessment_Methodologies/Auditing Fundamentals/Lesson 1 (Introduction to Security Auditing).md",
+    "Assessment_Methodologies/Auditing Fundamentals",
+    "Assessment_Methodologies/Auditing Fundamentals/Essential_Terminologies.md",
+    "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
+    "Assessment_Methodologies/Vulnerability Assessment/Untitled.md",
     "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 2 (Vulnerability Analysis).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 4 (Evasion, Scan Performance & Output).md",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
     "Assessment_Methodologies/Footprinting & Scanning/Lesson 2 (Host Discovery).md",
-    "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 3 (Vulnerability Scanning).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 3 (Active Information Gathering).md",
     "Assessment_Methodologies/Information_Gathering/Lesson 2 (Passive info gathering).md",
@@ -206,7 +213,6 @@
     "Pasted image 20250112220031.png",
     "Pasted image 20250112220430.png",
     "Assessment_Methodologies/Footprinting & Scanning",
-    "Assessment_Methodologies/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "2025-01-08.md",
     "Untitled.canvas",
     "Untitled.md"
