@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
+                "file": "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 5 (Linux Privilege Escalation).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 (Vulnerability Assessment)"
+              "title": "Lesson 5 (Linux Privilege Escalation)"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Host & Network Penetration Testing/System&Host Based Attacks/Lab (Host & Network Penetration Testing System-Host Based Attacks CTF 1).md",
+                "file": "Host & Network Penetration Testing/System&Host Based Attacks/Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab (Host & Network Penetration Testing System-Host Based Attacks CTF 1)"
+              "title": "Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cadaver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,13 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "62fd66b546c513b3",
@@ -191,13 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7813ae7a701054c3",
+  "active": "a40e32ac7e5878f4",
   "lastOpenFiles": [
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 5 (Linux Privilege Escalation).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 4 (Exploiting Linux Vulnerabilities).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lab (Host & Network Penetration Testing System-Host Based Attacks CTF 1).md",
-    "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 1 (Exploiting Windows Vulnerabilities).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 3 (Windows Credential Dumping).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 2 (Windows Privilege Escalation).md",
+    "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 3 (Vulnerability Scanning).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 2 (Vulnerability Analysis).md",
     "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
@@ -229,11 +231,8 @@
     "Assessment_Methodologies/Information_Gathering/Lesson 1 (Intro to passive and Active info gathering).md",
     "Pasted image 20250114172439.png",
     "Pasted image 20250114171558.png",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 1 (Networking Primer).md",
-    "Assessment_Methodologies/Information_Gathering/Information Gathering CTF 1.md",
     "Pasted image 20250112220031.png",
     "Pasted image 20250112220430.png",
-    "2025-01-08.md",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@
 
 # Lab Environment
 
-In this lab environment, you will be provided with GUI access to a Kali Linux machine. Two machines are accessible at **http://target1.ine.local** and **http://target2.ine.local**.
+In this lab environment, you will be provided with GUI access to a Kali Linux machine. Two machines are accessible at **http://target1.ine.local** and  **http://target2.ine.local**.
 
 **Objective:** Perform system/host-based attacks on the target and capture all the flags hidden within the environment.
 
@@ -65,7 +65,7 @@ This code gives us a text field where we can execute commands, to get the second
 
 ## Second Target:
 
-We will start with Nmap scan:`nmap -Pn -A -v -p- target1.ine.local` . This target is clearly running a smb server, we will use Metasploit to get valid credentials.
+We will start with Nmap scan:`nmap -Pn -A -v -p- target2.ine.local` . This target is clearly running a smb server, we will use Metasploit to get valid credentials.
 
 After starting msfconsole, we will use this auxiliary module: "scanner/smb/smb_login" to brute-force the smb service to get valid credentials. After setting the right settings for the user_file, pass_file and RHOSTS, we will get these credentials:
 rooty:spongebob
@@ -83,6 +83,7 @@ We will get reverse shell to the target.
 We will find the third flag in the "C:" directory and the forth flag in:"C:\Users\Administrator\Desktop"
 
 **Third flag:** bcb8d43900474106823bba1f4a28268d
+
 **Forth flag:** 6526b42fe35340ed864de9041c0cac55
 
 
