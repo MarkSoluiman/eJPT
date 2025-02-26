@@ -103,9 +103,9 @@ We can use this module to display a list of available tokens we can impersonate.
 
 To use this module, we need to have a meterpreter session on our target host first. Once we have the meterpreter session:`load incognito`. **Note: If the meterpreter session died, start another one and load the module again.** 
 
-We need first to make sure that the module will actually work by checking what privileges we have with our current user:`get privs` . If we see "SeAssignPrimaryToken", and "SeImpersonatePrivilege", we know that the module will probably work. 
+We need first to make sure that the module will actually work by checking what privileges we have with our current user:`getprivs` . If we see "SeAssignPrimaryToken", and "SeImpersonatePrivilege", we know that the module will probably work. 
 
-After loading the module, we can list the tokens by:`list_tokens -u` This will give us the names of the tokens we can impersonate. All what we have to do now is to copy the name of the token that we wish to impersonate and do the following: `impersonate_token "Name of Token"`
+After loading the module, we can list the tokens by:`list_tokens -u` This will give us the names of the tokens we can impersonate. All what we have to do now is to copy the name of the token that we wish to impersonate and do the following: `impersonate_token "Name of Token"`list
 
 Now we have escalated our privileges. 
 
