@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing- The Metasploit Framework CTF 2).md",
+                "file": "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 3 (Windows Credential Dumping).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab (Host & Network Penetration Testing- The Metasploit Framework CTF 2)"
+              "title": "Lesson 3 (Windows Credential Dumping)"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 4 (Exploiting Linux Vulnerabilities).md",
+                "file": "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing-The Metasploit Framework CTF 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 (Exploiting Linux Vulnerabilities)"
+              "title": "Lab (Host & Network Penetration Testing-The Metasploit Framework CTF 1)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autom",
+                "query": "armita",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,24 +191,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a40e32ac7e5878f4",
+  "active": "3f59b499e514ae8b",
   "lastOpenFiles": [
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing-The Metasploit Framework CTF 1).md",
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 4 (Linux Exploitation).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 5 (Linux Privilege Escalation).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 4 (Exploiting Linux Vulnerabilities).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 7 (Armitage).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 5 (Post Exploitation Fundamentals &  Windows Post Exploitation).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 2 (Windows Privilege Escalation).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 1 (Exploiting Windows Vulnerabilities).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 3 (Windows Credential Dumping).md",
+    "Host & Network Penetration Testing/Host & Network Penetration Testing Network-Based Attacks/Lesson 1 (Networking).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 4 (Linux Exploitation).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 1 (Metasploit).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 2 (Client-Side Attacks).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2).md",
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing- The Metasploit Framework CTF 2).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 3 (Windows Exploitation).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 4 (Exploiting Linux Vulnerabilities).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lab (Host & Network Penetration Testing System-Host Based Attacks CTF 1).md",
+    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
+    "Assessment_Methodologies/Information_Gathering/Information Gathering CTF 1.md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing- The Metasploit Framework CTF 2).md",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lab (Host & Network Penetration Testing-The Metasploit Framework CTF 1).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 5 (Linux Privilege Escalation).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2).md",
     "Assessment_Methodologies/Enumeration/Lesson 2 (Service Enumeration).md",
     "Assessment_Methodologies/Enumeration/Lesson 1 (Nmap Scripting Engine (NSE)).md",
-    "Host & Network Penetration Testing/Host & Network Penetration Testing Network-Based Attacks/Lesson 1 (Networking).md",
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 3 (Windows Exploitation).md",
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 1 (Metasploit).md",
     "Assessment_Methodologies/Footprinting & Scanning/Lab (Footprinting and Scanning CTF 1).md",
     "Host & Network Penetration Testing/Host & Network Penetration Testing Network-Based Attacks/Lab (Host & Network Penetration Testing Network-Based Attacks CTF 1).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)",
@@ -216,13 +222,8 @@
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 1 (Vulnerability Assessment).md",
     "Host & Network Penetration Testing/Host & Network Penetration Testing Network-Based Attacks",
     "Assessment_Methodologies/Vulnerability Assessment/Lesson 3 (Vulnerability Scanning).md",
-    "Assessment_Methodologies/Vulnerability Assessment/Lesson 2 (Vulnerability Analysis).md",
-    "Assessment_Methodologies/Vulnerability Assessment/Lab (Vulnerability Assessment CTF 1).md",
     "Pasted image 20250205185332.png",
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
-    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 4 (Evasion, Scan Performance & Output).md",
-    "Assessment_Methodologies/Footprinting & Scanning/Lesson 3 (Port Scanning).md",
     "Host & Network Penetration Testing/System&Host Based Attacks",
     "Host & Network Penetration Testing",
     "Assessment_Methodologies/Auditing Fundamentals",
