@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
+                "file": "Host & Network Penetration Testing/Social Engineering/Phishing with GoPhish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 6 (Linux Post Exploitation)"
+              "title": "Phishing with GoPhish"
             }
           },
           {
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "62fd66b546c513b3",
@@ -218,9 +219,11 @@
   },
   "active": "034bd76b2564fa7a",
   "lastOpenFiles": [
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
+    "Host & Network Penetration Testing/Social Engineering/Phishing with GoPhish.md",
+    "Host & Network Penetration Testing/Social Engineering",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 5 (Post Exploitation Fundamentals &  Windows Post Exploitation).md",
     "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
     "Assessment_Methodologies/Auditing Fundamentals/Lesson 2 (Governance, Risk & Compliance).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 4 (Linux Exploitation).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 3 (Windows Exploitation).md",
@@ -243,7 +246,6 @@
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 3 (Windows Credential Dumping).md",
     "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
     "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 1 (Exploiting Windows Vulnerabilities).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 2 (Windows Privilege Escalation).md",
     "Host & Network Penetration Testing/Post-Exploitation",
     "Host & Network Penetration Testing/Exploitation",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)",
@@ -255,7 +257,6 @@
     "Host & Network Penetration Testing",
     "Assessment_Methodologies/Auditing Fundamentals",
     "Assessment_Methodologies/Vulnerability Assessment",
-    "Assessment_Methodologies/Enumeration/__MACOSX/INE-Assessment-Methodologies-Enumeration-Course-File",
     "Pasted image 20250114172439.png",
     "Pasted image 20250114171558.png",
     "Pasted image 20250112220031.png",
