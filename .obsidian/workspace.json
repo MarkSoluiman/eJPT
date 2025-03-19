@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
+                "file": "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol/Lesson 1 (HTTP Protocol).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 3 (From Auditing to Penetration Testing)"
+              "title": "Lesson 1 (HTTP Protocol)"
             }
           },
           {
@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Host & Network Penetration Testing/Social Engineering/Phishing with GoPhish.md",
+                "file": "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol/Lab (Web Application Penetration Testing CTF 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phishing with GoPhish"
-            }
-          },
-          {
-            "id": "fe2f3fc3291482f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Lab (Web Application Penetration Testing CTF 1)"
             }
           },
           {
@@ -94,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pivo",
+                "query": "reverse shell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,33 +207,37 @@
   },
   "active": "034bd76b2564fa7a",
   "lastOpenFiles": [
-    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
+    "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol/Lesson 1 (HTTP Protocol).md",
+    "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol/Lab (Web Application Penetration Testing CTF 1).md",
+    "Host & Network Penetration Testing/Exploitation/Lesson 5 (Linux Exploitation).md",
+    "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol/Lesson 2 (Website Crawling & Spidering).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 4 (Exploiting Linux Vulnerabilities).md",
+    "Host & Network Penetration Testing/Exploitation/Lesson 3 (Shells).md",
+    "Host & Network Penetration Testing/Post-Exploitation/Lab (Host & Network Penetration Testing Post-Exploitation CTF 1).md",
+    "Host & Network Penetration Testing/Exploitation/Lab (Host & Network Penetration Testing Exploitation CTF 3).md",
+    "Host & Network Penetration Testing/Exploitation/Lab (Host & Network Penetration Testing Exploitation CTF 2).md",
+    "Host & Network Penetration Testing/Exploitation/Lab (Host & Network Penetration Testing Exploitation CTF 1).md",
+    "Host & Network Penetration Testing/System&Host Based Attacks/Lab( Host & Network Penetration Testing System-Host Based Attacks CTF 2).md",
+    "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
+    "Pasted image 20250317001846.png",
+    "Pasted image 20250316231931.png",
     "Host & Network Penetration Testing/Social Engineering/Phishing with GoPhish.md",
+    "Web Application Penetration Testing/Introduction to the Web & HTTP Protocol",
+    "Web Application Penetration Testing",
+    "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 6 (Linux Post Exploitation).md",
     "Host & Network Penetration Testing/Social Engineering",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 5 (Post Exploitation Fundamentals &  Windows Post Exploitation).md",
-    "Assessment_Methodologies/Auditing Fundamentals/Lesson 3 (From Auditing to Penetration Testing).md",
     "Assessment_Methodologies/Auditing Fundamentals/Lesson 2 (Governance, Risk & Compliance).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 4 (Linux Exploitation).md",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)/Lesson 3 (Windows Exploitation).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lesson 2 (Linux Enumeration).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lesson 3 ( Transferring Files ).md",
     "Host & Network Penetration Testing/Exploitation/Lesson 2 (Exploitation).md",
-    "Host & Network Penetration Testing/Exploitation/Lesson 3 (Shells).md",
     "Host & Network Penetration Testing/Exploitation/Lesson 4 (Windows Exploitation).md",
-    "Host & Network Penetration Testing/Exploitation/Lesson 5 (Linux Exploitation).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lab (Host & Network Penetration Testing Post-Exploitation CTF 2).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lesson 6 (Linux Privilege Escalation).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lesson 5 (Windows Privilege Escalation).md",
     "Host & Network Penetration Testing/Post-Exploitation/Lesson 4 (Upgrading Shells).md",
-    "Host & Network Penetration Testing/Exploitation/Lesson 1 (Vulnerability Scanning).md",
-    "Host & Network Penetration Testing/Exploitation/Lesson 6 (AV Evasion & Obfuscation).md",
-    "Host & Network Penetration Testing/Exploitation/Lab (Host & Network Penetration Testing Exploitation CTF 3).md",
-    "Host & Network Penetration Testing/Exploitation/Lab (Host & Network Penetration Testing Exploitation CTF 1).md",
-    "Host & Network Penetration Testing/Post-Exploitation/Lab (Host & Network Penetration Testing Post-Exploitation CTF 1).md",
-    "Host & Network Penetration Testing/Post-Exploitation/Lesson 1 (Windows Enumeration).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 3 (Windows Credential Dumping).md",
-    "Assessment_Methodologies/Enumeration/Lab (Assessment Methodologies_Enumeration CTF 1).md",
-    "Host & Network Penetration Testing/System&Host Based Attacks/Lesson 1 (Exploiting Windows Vulnerabilities).md",
     "Host & Network Penetration Testing/Post-Exploitation",
     "Host & Network Penetration Testing/Exploitation",
     "Host & Network Penetration Testing/The Metasploit Framework (MSF)",
@@ -255,8 +247,6 @@
     "Assessment_Methodologies/Enumeration/INE-Assessment-Methodologies-Enumeration-Course-File.pdf",
     "Host & Network Penetration Testing/System&Host Based Attacks",
     "Host & Network Penetration Testing",
-    "Assessment_Methodologies/Auditing Fundamentals",
-    "Assessment_Methodologies/Vulnerability Assessment",
     "Pasted image 20250114172439.png",
     "Pasted image 20250114171558.png",
     "Pasted image 20250112220031.png",
